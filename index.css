@@ -1,11 +1,11 @@
 @font-face {
      font-family: "Lora";
-     src: url(fonts/lora/Lora-Variable.ttf);
+     src: url(fonts/lora/Lora-Variable.ttf) format('truetype');
 }
 
 @font-face {
      font-family: "LoraItalic";
-     src: url(fonts/lora/Lora-VariableItalic.ttf);
+     src: url(fonts/lora/Lora-VariableItalic.ttf) format('truetype');
 }
 
 body{
