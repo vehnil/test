@@ -14,6 +14,29 @@ body{
 
 .heading {
      font-family: "Lora", serif;
-     font-weight: 500;
-     color: #990000
+     font-weight: 400;
+     font-size: 1.5em;
+     color: #990000;
+     margin: 1em 1.5em;
 }
+
+.lora {
+     font-family: "Lora", serif;
+     color: #000000
+}
+
+.four {
+     font-weight: 400;
+} 
+
+.five {
+     font-weight: 500;
+} 
+
+.six {
+     font-weight: 600;
+} 
+
+.seven {
+     font-weight: 700;
+} 
