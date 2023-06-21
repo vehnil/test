@@ -14,10 +14,10 @@ body{
 
 .heading {
      font-family: "Lora", serif;
-     font-weight: 400;
-     font-size: 1.5em;
+     font-weight: 600;
+     font-size: 40pt;
      color: #990000;
-     margin: 1em 1.5em;
+     margin: 0.6em 0.8em;
 }
 
 .lora {
